@@ -1,3 +1,3 @@
 # Summary
 
-PRs are awesome!
+PRs are awesome! This is a summary.
