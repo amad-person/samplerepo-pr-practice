@@ -1,6 +1,6 @@
 # Introduction 
 
-A sample repository to learn how to use pull requests on Github.
+A sample repository to learn how to use pull requests on Github. This repository also has information on how to submit LOs as PRs.
 
 ### Submitting Pull Requests as evidence of an LO
 
